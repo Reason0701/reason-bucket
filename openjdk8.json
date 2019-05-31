@@ -1,18 +1,18 @@
 {
     "description": "OpenJDK 8 Unofficial build",
-    "homepage": "https://bitbucket.org/alexkasko/openjdk-unofficial-builds",
+    "homepage": "https://jdk.java.net/",
     "version": "8u40-b25",
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "32bit": {
-            "url": "https://bitbucket.org/alexkasko/openjdk-unofficial-builds/downloads/openjdk-1.8.0-8u40-unofficial-windows-i586-image.zip",
-            "hash": "f3b715bc049b3c88bc47695278433c7dc4b2648e2b156f5e24346aecba343035",
-            "extract_dir": "openjdk-1.8.0-8u40-unofficial-windows-i586-image"
+            "url": "https://bitbucket.org/alexkasko/openjdk-unofficial-builds/downloads/jdk_ri-8u40-b25-windows-i586-10_feb_2015.zip",
+            "hash": "f3b715bc049b3c88bc47695278433c7dc4b2648e2b156f5e24346aecba343034",
+            "extract_dir": "jdk_ri-8u40-b25-windows-i586-10_feb_2015"
         },
         "64bit": {
-            "url": "https://bitbucket.org/alexkasko/openjdk-unofficial-builds/downloads/openjdk-1.8.0-8u40-unofficial-windows-amd64-image.zip",
-            "hash": "1b835601f4ae689b9271040713b01d6bdd186c6a57bb4a7c47e1f7244d5ac928",
-            "extract_dir": "openjdk-1.8.0-8u40-unofficial-windows-amd64-image"
+            "url": "https://bitbucket.org/alexkasko/openjdk-unofficial-builds/downloads/jdk_ri-8u40-b25-windows-i586-10_feb_2015.zip",
+            "hash": "1b835601f4ae689b9271040713b01d6bdd186c6a57bb4a7c47e1f7244d5ac927",
+            "extract_dir": "jdk_ri-8u40-b25-windows-i586-10_feb_2015"
         }
     },
     "env_add_path": "bin",
