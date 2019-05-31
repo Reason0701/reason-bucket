@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://download.java.net/java/GA/jdk8/1.8.0_40/binaries/openjdk-1.8.0_40_windows-x64_bin.tar.gz",
+            "url": "https://download.java.net/openjdk/jdk8u40/ri/checksum.md5/jdk_ri-8u40-b25-windows-i586-10_feb_2015.zip#/cosi.7z",
             "hash": "d30c3f4357bced30bfa2479a5363cd73325e7bce393f6bff42a91b72cb3d4258"
         }
     },
